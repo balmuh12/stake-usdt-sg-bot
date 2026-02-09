@@ -1,0 +1,5 @@
+{
+  "Basic": {"min": 100000, "duration": 30, "profit": 10000, "desc": "Paket basic cocok pemula"},
+  "Premium": {"min": 300000, "duration": 30, "profit": 35000, "desc": "Paket premium keuntungan lebih besar"},
+  "VIP": {"min": 1000000, "duration": 30, "profit": 120000, "desc": "Paket VIP prioritas tinggi"}
+}
