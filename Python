@@ -1,0 +1,5 @@
+# Daftar Telegram ID admin
+ADMINS = [6597943355]  # Ganti dengan ID kamu
+
+# Nama file packages.json
+PACKAGES_FILE = "packages.json"
